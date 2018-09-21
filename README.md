@@ -9,7 +9,7 @@ The second keyword, which creates the lines undeaneath the top line. This create
 
 The encrypted passage, this will then be decrypted.
 
-Since at the moment you can only decrypt i would suggest testing using a known combo of all these three things. Something like the first Kryptos passage (K1) which is:
+Since at the moment you can only decrypt i would suggest testing it using a known combo of all these three things. Something like the first Kryptos passage (K1) which is:
 
 First Key: KRYPTOS
 Second Key: PALIMPSEST
