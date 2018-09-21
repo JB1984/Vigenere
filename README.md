@@ -9,7 +9,7 @@ Just run the file and it will prompt you for:
 
 <b>The encrypted passage</b>, this will then be decrypted.
 
-Since at the moment you can only decrypt i would suggest testing it using a known combo of all these three things. Something like the first Kryptos passage (K1) which is:
+Since at the moment you can only decrypt I would suggest testing it using a known combo of all these three things. Something like the first Kryptos passage (K1) which is:
 
 First Key: KRYPTOS <br>
 Second Key: PALIMPSEST <br>
