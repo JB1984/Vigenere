@@ -73,6 +73,7 @@ def decryptPassage(passage, myAlphabet, myLines, key2string):
 alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 
 key1string = input("Enter first key: ")
+key1string = key1string.lower()
 
 myAlphabet = createAlphabet(key1string)
 
@@ -81,6 +82,7 @@ myAlphabetString = ''.join(myAlphabet)
 print("Your alphabet line is: " + myAlphabetString)
 
 key2string = input("Enter second key: ")
+key2string = key2string.lower()
 
 myLines = createLines(key2string, myAlphabet)
 
@@ -90,6 +92,7 @@ for line in myLines:
     print("Your lines are: " + lineSting)
 
 encryptedPassage = input("Enter encrypted passage: ")
+encryptedPassage = encryptedPassage.lower()
 
 decryptedPassage = decryptPassage(encryptedPassage, myAlphabet, myLines, key2string)
 
