@@ -3,11 +3,11 @@ Program to decrypt/encrypt a passage using Vigenere cipher technique. Right now 
 
 Just run the file and it will prompt you for:
 
-The first keyword, which creates the alphabet "top" line. This currently must contain only one instance of each letter of the alphabet. For example you can use "Hi" but not "Hello" since "Hello" has two l's. 
+<b>The first keyword</b>, which creates the alphabet "top" line. This currently must contain only one instance of each letter of the alphabet. For example you can use "Hi" but not "Hello" since "Hello" has two l's. 
 
-The second keyword, which creates the lines undeaneath the top line. This creates the "matrix" used. You can use any word here, it can contain more than one instance of a letter. So you could use "Hello" here.
+<b>The second keyword</b>, which creates the lines undeaneath the top line. This creates the "matrix" used. You can use any word here, it can contain more than one instance of a letter. So you could use "Hello" here.
 
-The encrypted passage, this will then be decrypted.
+<b>The encrypted passage</b>, this will then be decrypted.
 
 Since at the moment you can only decrypt i would suggest testing it using a known combo of all these three things. Something like the first Kryptos passage (K1) which is:
 
