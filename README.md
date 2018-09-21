@@ -11,9 +11,9 @@ The encrypted passage, this will then be decrypted.
 
 Since at the moment you can only decrypt i would suggest testing it using a known combo of all these three things. Something like the first Kryptos passage (K1) which is:
 
-First Key: KRYPTOS
-Second Key: PALIMPSEST
-Encrypted Passage: EMUFPHZLRFAXYUSDJKZLDKRNSHGNFIVJYQTQUXQBQVYUVLLTREVJYQTMKYRDMFD
+First Key: KRYPTOS <br>
+Second Key: PALIMPSEST <br>
+Encrypted Passage: EMUFPHZLRFAXYUSDJKZLDKRNSHGNFIVJYQTQUXQBQVYUVLLTREVJYQTMKYRDMFD <br>
 
 Your decrypted passage should be "Between subtle shading and the absence of light lies the nuance of iqlusion." Of course it will all be one long string, but you should still be able to read it.
 
