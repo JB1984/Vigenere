@@ -3,7 +3,7 @@ Program to decrypt/encrypt a passage using Vigenere cipher technique. Right now 
 
 Just run the file and it will prompt you for:
 
-The first keyword, which creates the alphabet "top" line. This currently has to contain only one instance of each letter of the alphabet. For example you can use "Hi" but not "Hello" since "Hello" has two l's. 
+The first keyword, which creates the alphabet "top" line. This currently must contain only one instance of each letter of the alphabet. For example you can use "Hi" but not "Hello" since "Hello" has two l's. 
 
 The second keyword, which creates the lines undeaneath the top line. This creates the "matrix" used. You can use any word here, it can contain more than one instance of a letter. So you could use "Hello" here.
 
