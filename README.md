@@ -1,5 +1,5 @@
 # Vigenere
-Program to decrypt/encrypt a passage using Vigenere cipher technique. Right now it is only setup to decrypt.
+Program to decrypt/encrypt a passage using Vigenere cipher technique. Right now it is only setup to decrypt. I am working on encryption ability.
 
 Just run the file and it will prompt you for:
 
