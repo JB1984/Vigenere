@@ -28,7 +28,7 @@ Encrypted passage you should get returned: EMUFPHZLRFAXYUSDJKZLDKRNSHGNFIVJYQTQU
 
 First Key: KRYPTOS <br>
 Second Key: PALIMPSEST <br>
-Enter passage you wish to dcrypt: EMUFPHZLRFAXYUSDJKZLDKRNSHGNFIVJYQTQUXQBQVYUVLLTREVJYQTMKYRDMFD
+Enter passage you wish to decrypt: EMUFPHZLRFAXYUSDJKZLDKRNSHGNFIVJYQTQUXQBQVYUVLLTREVJYQTMKYRDMFD
 
 Decrypted passage you should get returned: Betweensubtleshadingandtheabsenceoflightliesthenuanceofiqlusion
 
