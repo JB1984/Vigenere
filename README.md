@@ -34,5 +34,5 @@ First Key: KRYPTOS <br>
 Second Key: PALIMPSEST <br>
 Enter passage you wish to decrypt: EMUFPHZLRFAXYUSDJKZLDKRNSHGNFIVJYQTQUXQBQVYUVLLTREVJYQTMKYRDMFD
 
-Decrypted passage you should get returned: Betweensubtleshadingandtheabsenceoflightliesthenuanceofiqlusion
+Decrypted passage you should get returned: <br>Betweensubtleshadingandtheabsenceoflightliesthenuanceofiqlusion
 
