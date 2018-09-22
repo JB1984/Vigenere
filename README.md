@@ -7,7 +7,7 @@ In both the encrypting or decrypting choice you will see the following input que
 
 <b>The first keyword</b>, which creates the alphabet "top" line of the matrix. The keyword here currently must contain only one instance of each letter of the alphabet. For example you can use "Hi" but not "Hello" since "Hello" has two l's. 
 
-<b>The second keyword</b>, which creates the lines undeaneath the top line. This creates the "matrix" used. You can use any word here, it can contain more than one instance of a letter. So you could use "Hello" here.
+<b>The second keyword</b>, which creates the lines undeaneath the top line. This finishes the "matrix" used. You can use any word here, it can contain more than one instance of a letter. So you could use "Hello" here.
 
 <b>The passage to encrypt/decrypt</b>.
 
