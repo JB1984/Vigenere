@@ -22,4 +22,11 @@ Enter passage you wish to encrypt: Between subtle shading and the absence of lig
 Encrypted passage you should get returned: EMUFPHZLRFAXYUSDJKZLDKRNSHGNFIVJYQTQUXQBQVYUVLLTREVJYQTMKYRDMFD <br>
 
 
+<H4> Decrypt </H4>
+
+First Key: KRYPTOS <br>
+Second Key: PALIMPSEST <br>
+Enter passage you wish to encrypt: EMUFPHZLRFAXYUSDJKZLDKRNSHGNFIVJYQTQUXQBQVYUVLLTREVJYQTMKYRDMFD
+
+Decrypted passage you should get returned: Betweensubtleshadingandtheabsenceoflightliesthenuanceofiqlusion
 
