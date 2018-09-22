@@ -11,7 +11,7 @@ In both the encrypting or decrypting choice you will see the following input que
 
 <b>The passage to encrypt/decrypt</b>.
 
-You can take a look at this rather quick YouTube video to see the basics of what we are doing in our code
+You can take a look at this rather quick YouTube video to see the basics of how Vigenere ciphers work.
 
 https://www.youtube.com/watch?v=0Pm2PrxmU38
 
