@@ -11,7 +11,7 @@ In both the encrypting or decrypting choice you will see the following input que
 
 <b>The passage to encrypt/decrypt</b>.
 
-I would suggest you try first doing something where you know the keys, as well as the encrypted decrypted passes. Something like the first Kryptos passage (K1) which is:
+I would suggest you try first doing something where you know the keys, as well as the encrypted/decrypted passages just to test that it is working. Something like the first Kryptos passage (K1) which is:
 
 <H4> ENCRYPT </H4>
 
